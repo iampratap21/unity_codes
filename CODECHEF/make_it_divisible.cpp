@@ -1,3 +1,10 @@
+/*
+Given an integer NN, help Chef in finding an N-digit{odd positive integer}odd positive integer X such that X is divisible by 3 but not by 9.
+
+Note: There should not be any leading zeroes in X. In other words, 003 is not a valid 3-digit odd positive integer.
+
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
